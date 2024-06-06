@@ -1,7 +1,3 @@
-**Global Layoffs Data**
-
-In this project, we're looking at global layoffs data for companies from 2020 to 2023. 
-
 # Data Cleaning in SQL: Global Company Layoffs '20-'23
 
 ## Project Description
